@@ -1,10 +1,12 @@
-TASK'S DATE: 15.11.2017 - FINISHED: 15.11.2017 (EASY)  
+FOR PRIVACY AND CODE PROTECTING REASONS THIS IS A SIMPLIFIED VERSION OF CHANGES AND NEW FEATURES
+
+TASK DATE: 15.11.2017 - FINISHED: 15.11.2017
+
+TASK LEVEL: (EASY)  
 
 TASK SHORT DESCRIPTION: 1186 ('Year(s) Given' stat in a Users Record > Fundraising tab is being calculated incorrectly. It needs to count a year only if a user has donated that year. (e.g if they only donated in 2012, it needs to be 1 Year and not 5 Years))
 
 GITHUB REPOSITORY CODE: hotfix/task-1186-years-given-stat-fundraising
-
-ORIGINAL WORK: https://github.com/BusinessBecause/network-site/tree/hotfix/task-1186-years-given-stat-fundraising
 
 CHANGES
 
